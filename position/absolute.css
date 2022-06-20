@@ -1,0 +1,29 @@
+.main1{
+    position: relative;
+    height:50vh;
+    width:auto;
+    display: flex;
+    margin: 20px;
+    margin-bottom: 0;
+    
+}
+.box{
+    background-color: palevioletred;
+    height: 300px;
+    width:300px;
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    
+}
+.main2{ 
+    height:50vh;
+    width:auto;
+    margin: 20px;
+    margin-top: 0;
+    
+}
+.text{
+      width: 1140px;
+   
+}

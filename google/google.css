@@ -1,0 +1,36 @@
+img{
+position: relative;
+height: 100vh;
+margin:0;
+}
+h1{
+    position: absolute;
+    top: 40%;
+    left: 45%;
+    bottom: 50%;
+}
+#nav{
+    position: absolute;
+    top:5px;
+    color: black;
+}
+#input{
+    position: absolute;
+    top:50%;
+    width: 500px;
+    left:550px;
+    right: 50px;
+}
+.badges{
+    position: absolute;
+    top:60%;
+    left:650px;
+    display: flex;
+    gap: 5px;
+    justify-content: space-around;
+}
+.badges2{
+    position: absolute;
+    top:65%;
+    left:700px;
+}
